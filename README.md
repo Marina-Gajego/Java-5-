@@ -33,7 +33,7 @@ O curso abrange o uso de **Spring Framework** em projetos Java, além de técnic
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/java-lambdas-streams-spring.git
+   git clone https://github.com/seu-usuario/Java-trabalhando-com-lambdas-streams-Spring-Framework.git
 Abra o projeto no IntelliJ IDEA ou em sua IDE preferida.
 Certifique-se de que o JDK 17 está configurado corretamente.
 Execute a classe principal para rodar o projeto com o Spring Boot.
